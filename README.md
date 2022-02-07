@@ -14,4 +14,10 @@ cd ... then type cd .\Users\Yourusername\Downloads\galastiaos\galastiaos\flock\f
 type ".\flockcli.ps1" Note: depending on privileges, you might not be able to run scripts from any publihser, you might have to run as admin and change directory to you drie directory(main drive) and then skip the first part(cd ...) and use the second part of step 3(cd .\Users\Yourusername\Downloads\galastiaos\galastiaos\flock\flockrun)
 Features:
 
--Koolol v1-5, raw, cons(bsk+bsc) -QuickTasks -SysMode -KhScript Compatibility with Kh::KhCons.FlockScripts.khfsmf(koolol hard flock script module file) -KKern -FlockLoadScript(BIOS) -KFlockFile(file management) -InputOutputMode
+-Koolol v1-5, raw, cons(bsk+bsc) 
+-QuickTasks 
+-SysMode 
+-KhScript Compatibility with Kh::KhCons.FlockSc mlripts.khfsmf(koolol hard flock script module file) 
+-KKern -FlockLoadScript(BIOS) 
+-KFlockFile(file management)
+-InputOutputMode
