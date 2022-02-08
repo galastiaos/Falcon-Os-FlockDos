@@ -16,20 +16,27 @@ How to install:
 
 Features:
 
--Koolol v1-5, raw, cons(bsk+bsc) 
+**Legend:**
 
--QuickTasks 
+1=currently available
 
--SysMode 
+2=coming up soon
 
--KhScript Compatibility with Kh::KhCons.FlockSc mlripts.khfsmf(koolol hard flock script module file) 
+3=in development
 
--KKern 
 
--FlockLoadScript(BIOS) 
+-3 Koolol v1-5, raw, cons(bsk+bsc) 
 
--KFlockFile(file management tools)
+-3 QuickTasks 
 
--InputOutputMode
+-3 KhScript Compatibility with Kh::KhCons.FlockSc mlripts.khfsmf(koolol hard flock script module file) 
 
--CrashManager(uses wininit and vbs)
+-3 KKern 
+
+-1 FlockLoadScript(BIOS) 
+
+-1 KFlockFile(file management tools)
+
+-1 InputOutputMode
+
+-2 CrashManager(uses wininit and vbs)
