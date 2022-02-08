@@ -9,9 +9,13 @@ Galastia os:
 How to install:
 
 1.go into a powershell window(prefferably the newest version of powershell)
+
 2.unzip the folder
+
 3. type in powershell: "cd ..." then type: "cd .\Users\Yourusername\Downloads\galastiaos\galastiaos\flock\flockrun"
+
 4: type: ".\flockcli.ps1" 
+
 **Note: depending on privileges, you might not be able to run scripts from any publihser, you might have to run as admin and change directory to you drie directory(main drive) and then skip the first part(cd ...) and use the second part of step 3(cd .\Users\Yourusername\Downloads\galastiaos\galastiaos\flock\flockrun)**
 
 Features:
