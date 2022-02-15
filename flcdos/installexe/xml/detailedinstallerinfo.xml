@@ -1,0 +1,44 @@
+<MsiWrapper>
+  <Installer>
+    <IconFile Detect="" Value="D:\flcdos\installexe\icons\ico o+n\icon0_1alpha.ico" />
+    <Output FileName="D:\flcdos\installexe\falcon_os_cli_exe_new_install.msi" />
+    <InstallPrivileges Value="Elevated" />
+    <PerUser Value="auto" />
+    <ElevateExecutable Value="administrators" />
+    <UpgradeCode Value="{4706B197-F8A5-4F4A-8E8B-4B55012E1EA2}" />
+    <ProductId Value="" />
+    <Platform Value="x64" />
+    <Registration Value="Visible" />
+    <RegistrationWrapped Value="Hidden" />
+    <Manufacturer Detect="" Value="Falcon" />
+    <ProductVersion Detect="" Value="0.0.0.1" />
+    <ProductName Detect="" Value="FlockDos" />
+    <Comments Detect="" Value="run installer as admin" />
+    <Contact Detect="" Value="evanrtremblay@gmail.com" />
+    <HelpLink Detect="" Value="" />
+    <UpdateLink Detect="" Value="" />
+    <AboutLink Detect="" Value="" />
+  </Installer>
+  <WrappedInstaller>
+    <Executable FileName="D:\flcdos\installexe\falcon_os_cli_exe_new_install.exe" SuccessCodes="" Impersonate="yes" IncludeFiles="yes" CompressionLevel="Min" />
+    <ApplicationId Value="" />
+    <Install>
+      <Arguments Value="">
+        <UILevelNone Value="" />
+        <UILevelBasic Value="" />
+        <UILevelReduced Value="" />
+        <UILevelFull Value="" />
+      </Arguments>
+      <RunBeforeInstall Value="" />
+      <RunAfterInstall Value="" />
+    </Install>
+    <Uninstall>
+      <Arguments Value="">
+        <UILevelNone Value="" />
+        <UILevelBasic Value="" />
+        <UILevelReduced Value="" />
+        <UILevelFull Value="" />
+      </Arguments>
+    </Uninstall>
+  </WrappedInstaller>
+</MsiWrapper>
