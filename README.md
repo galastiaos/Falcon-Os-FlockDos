@@ -1,3 +1,6 @@
+
+[![Join the chat at https://gitter.im/Falcon-Os-FlockDos/community](https://badges.gitter.im/Falcon-Os-FlockDos/community.svg)](https://gitter.im/Falcon-Os-FlockDos/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Falcon Os Flockdos, by galastiaos, 
 
 ***Work in progress***
